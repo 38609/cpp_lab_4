@@ -1,0 +1,5 @@
+Anna;K;186;Skill#1;Skill#2;Skill#3;Skill#4;Skill#5
+Jan;W;185;Skill#1;Skill#2;Skill#3;Skill#4;Skill#5
+Krystian;C;186;Skill#1;Skill#2;Skill#3;Skill#4;Skill#5
+Grzegorz;S;183;Skill#1;Skill#2;Skill#3;Skill#4;Skill#5
+Bartek;Z;180;Skill#1;Skill#2;Skill#3;Skill#4;Skill#5
